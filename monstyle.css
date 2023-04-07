@@ -39,13 +39,7 @@ body {
    font-family: Comic Sans MS, sans-serif;
   }
 
- p {
- font-size: 10px; 
- color: #6D071A; 
- padding-left: 15px;
-  text-align: center;
-   font-family: Comic Sans MS, sans-serif;
-  }
+
   
  h6 {
 background-color:#6D071A;
@@ -54,6 +48,21 @@ background-color:#6D071A;
  padding-left: 15px;
   text-align: center;
    font-family: Comic Sans MS, sans-serif;
+  }
+ p {
+ font-size: 10px; 
+ color: #6D071A; 
+ padding-left: 15px;
+  text-align: center;
+   font-family: Comic Sans MS, sans-serif;
+  }
+ a {
+ font-size: 10px; 
+ color: #6D071A; 
+ padding-left: 15px;
+  text-align: center;
+  font-family: Comic Sans MS, sans-serif;
+  text-decoration: none;
   }
   
 
